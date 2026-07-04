@@ -1,0 +1,29 @@
+{
+  "version": "0.2",
+  "language": "en-GB",
+  "ignorePaths": [
+    "css/font-awesome/**",
+    "css/fontello/**",
+    "js/**",
+    ".git/**",
+    ".vs/**"
+  ],
+  "words": [
+    "Schmid",
+    "SOAS",
+    "opensans",
+    "librebaskerville",
+    "Scikit",
+    "NLTK",
+    "Plotly",
+    "Seaborn",
+    "Matplotlib",
+    "Elspeth",
+    "Pearce",
+    "Styleshout",
+    "Fernandes",
+    "zackfern",
+    "recenttracks",
+    "mschm"
+  ]
+}
